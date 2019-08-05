@@ -1,0 +1,11 @@
+.configTable {
+    text-align: left;
+    width: auto;
+    margin: auto;
+    margin-top: auto;
+}
+
+.configTable th, td {
+    vertical-align: top;
+    padding: 6px
+}
